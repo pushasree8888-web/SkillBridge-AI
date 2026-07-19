@@ -72,40 +72,20 @@ python app.py
 
 ---
 
+
 ## 📸 Screenshots
-## 📸 Screenshots
 
-### Login Page
-<img src="screenshots/login.png" width="700"/>
+The application includes the following pages:
 
-### Career Report
-<img src="screenshots/reports.png" width="700"/>
-
-### 🔐 Login Page
-![Login Page](screenshots/Login.png)
-
-### 📝 Register Page
-![Register Page](screenshots/Register.png)
-
-### 👤 Profile Setup Page
-![Profile Setup](screenshots/Profile.png)
-
-### 🧠 Skill Analysis Page
-![Skill Analysis](screenshots/Analysis.png)
-
-### 🎯 Career Recommendations Page
-![Career Recommendations](screenshots/Careers.png)
-
-### 🛣️ Learning Roadmap Page
-![Learning Roadmap](screenshots/Roadmap.png)
-
-### 💡 Project Suggestions Page
-![Project Suggestions](screenshots/Projects.png)
-
-
-### 📄 Final Career Report
-![Career Report](screenshots/Reports.png)
----
+- Login Page
+- Register Page
+- Profile Setup Page
+- Skill Analysis Page
+- Career Recommendations Page
+- Learning Roadmap Page
+- Project Suggestions Page
+- Career Readiness Score Page
+- Final Career Report Page
 
 ## Future Improvements
 
