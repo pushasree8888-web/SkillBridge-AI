@@ -101,3 +101,7 @@ The application includes the following pages:
 ## Author
 
 Developed by Ushasree Potharaju as a full-stack AI-powered student career guidance project.
+
+## 🚀 Live Demo
+
+https://skill-bridge-ai-xi.vercel.app/report
