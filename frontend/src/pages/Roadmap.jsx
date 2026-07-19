@@ -14,7 +14,7 @@ function Roadmap() {
     const loadRoadmap = async () => {
 
       const response = await fetch(
-        "http://127.0.0.1:5000/roadmap",
+        "https://skillbridge-ai-c28a.onrender.com/roadmap",
         {
           method: "POST",
           headers: {

@@ -15,7 +15,7 @@ function Careers() {
       const skills = localStorage.getItem("skills");
 
       const response = await fetch(
-        "http://127.0.0.1:5000/career",
+        "https://skillbridge-ai-c28a.onrender.com/career",
         {
           method: "POST",
           headers: {
