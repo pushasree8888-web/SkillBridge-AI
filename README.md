@@ -75,29 +75,29 @@ python app.py
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### 📝 Register Page
-![Register Page](screenshots/register.png)
+![Register Page](screenshots/Register.png)
 
 ### 👤 Profile Setup Page
-![Profile Setup](screenshots/profile.png)
+![Profile Setup](screenshots/Profile.png)
 
 ### 🧠 Skill Analysis Page
-![Skill Analysis](screenshots/analysis.png)
+![Skill Analysis](screenshots/Analysis.png)
 
 ### 🎯 Career Recommendations Page
-![Career Recommendations](screenshots/careers.png)
+![Career Recommendations](screenshots/Careers.png)
 
 ### 🛣️ Learning Roadmap Page
-![Learning Roadmap](screenshots/roadmap.png)
+![Learning Roadmap](screenshots/Roadmap.png)
 
 ### 💡 Project Suggestions Page
-![Project Suggestions](screenshots/projects.png)
+![Project Suggestions](screenshots/Projects.png)
 
 
 ### 📄 Final Career Report
-![Career Report](screenshots/reports.png)
+![Career Report](screenshots/Reports.png)
 ---
 
 ## Future Improvements
