@@ -72,18 +72,32 @@ python app.py
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-Add screenshots of:
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
 
-* Login Page
-* Register Page
-* Profile Page
-* Skill Analysis
-* Career Recommendations
-* Learning Roadmap
-* Final Report
+### 📝 Register Page
+![Register Page](screenshots/register.png)
 
+### 👤 Profile Setup Page
+![Profile Setup](screenshots/profile.png)
+
+### 🧠 Skill Analysis Page
+![Skill Analysis](screenshots/analysis.png)
+
+### 🎯 Career Recommendations Page
+![Career Recommendations](screenshots/careers.png)
+
+### 🛣️ Learning Roadmap Page
+![Learning Roadmap](screenshots/roadmap.png)
+
+### 💡 Project Suggestions Page
+![Project Suggestions](screenshots/projects.png)
+
+
+### 📄 Final Career Report
+![Career Report](screenshots/reports.png)
 ---
 
 ## Future Improvements
