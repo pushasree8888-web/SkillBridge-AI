@@ -73,6 +73,13 @@ python app.py
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
+
+### Login Page
+<img src="screenshots/login.png" width="700"/>
+
+### Career Report
+<img src="screenshots/reports.png" width="700"/>
 
 ### 🔐 Login Page
 ![Login Page](screenshots/Login.png)
