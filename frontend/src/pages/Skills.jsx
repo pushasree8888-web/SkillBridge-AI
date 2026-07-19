@@ -18,8 +18,8 @@ function Skills(){
 
 
     const response = await fetch(
-      "https://skillbridge-ai-c28a.onrender.com",
-      {
+      "https://skillbridge-ai-c28a.onrender.com/analyze", {
+
         method:"POST",
         headers:{
           "Content-Type":"application/json"
