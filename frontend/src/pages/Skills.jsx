@@ -18,7 +18,7 @@ function Skills(){
 
 
     const response = await fetch(
-      "http://127.0.0.1:5000/analyze",
+      "https://skillbridge-ai-c28a.onrender.com",
       {
         method:"POST",
         headers:{
